@@ -8,7 +8,7 @@ The Free Internet Chess Server (FICS) is a great service but none of the apps ou
 Develop the most popular mobile app for the FICS.
 
 ### TODOs
-- [ ] the name of the game
+- [x] the name of the game
 
 ### Top Features
 - easy (automatic) login and reconnect
